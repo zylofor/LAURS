@@ -3,7 +3,6 @@
 
 RTK and radar data preprocessing code has been released, the LAURS dataset download link is: 
 
-https://pan.baidu.com/s/1lnkx9Je2WtpzF9ybBturdA?pwd=1qwy code: 1qwy 
-
+https://pan.baidu.com/s/1gse4aVm1EbVAMMt2OUw8NA?pwd=2xey code: 2xey 
 
 AirSentinel full training code will be released after the paper is accepted.
