@@ -1,7 +1,7 @@
 # LAURS Dataset
 
 
-RTK and radar data preprocessing code has been released, the LAURS dataset download link is: 
+RTK and radar data preprocessing code has been released, the radarUAV-24K dataset download link is: 
 
 https://pan.baidu.com/s/1gse4aVm1EbVAMMt2OUw8NA?pwd=2xey code: 2xey 
 
